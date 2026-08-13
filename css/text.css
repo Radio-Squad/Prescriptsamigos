@@ -1,0 +1,12 @@
+#scrambleText {
+    font-size: 25px;
+    letter-spacing: 2px;
+    user-select: none;
+    text-shadow:
+        0 0 10px rgb(88 159 111 / 80%),
+        0 0 20px rgb(153 255 218 / 50%),
+        0 0 40px rgb(0 235 140 / 30%);
+    text-align: center;
+    max-width: 90%;
+    transition: font-size 0.3s ease;
+}
